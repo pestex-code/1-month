@@ -1,0 +1,26 @@
+[
+    {
+        "haslo":"brzuch",
+        "kategoria":"Część ciała"
+    },
+    {
+        "haslo":"sklep",
+        "kategoria":"Miejsce"
+    },
+    {
+        "haslo":"kapusta",
+        "kategoria":"Warzywa"
+    },
+    {
+        "haslo":"pustak",
+        "kategoria":"Budownictwo"
+    },
+    {
+        "haslo":"aspiryna",
+        "kategoria":"Leki"
+    },
+    {
+        "haslo":"oliwia",
+        "kategoria":"Księgowość"
+    }
+]
