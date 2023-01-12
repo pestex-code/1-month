@@ -18,7 +18,10 @@ def informacje():
     print("")
     print("Kategoria:", hasla[los]["kategoria"])
     print("Pozostała ilość żyć:", zycia)
+    print("")
     print(znaki)
+    print("")
+    print("Użyte litery:", uzyte_znaki)
     print("")
 
 def szukanie(haslo, litera):
